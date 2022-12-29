@@ -68,6 +68,15 @@ h1, h2, h3, h4, p {
         
 }
 
+.video  {
+    margin-bottom: 2em; 
+    padding-bottom: 2em;
+    margin: 0 auto;           
+    width: 25%;
+}
+
+
+
 #gift-img-hug:hover {
     background-image: url("images/hug.gif");
 }
