@@ -75,7 +75,20 @@ h1, h2, h3, h4, p {
     
 }
 
+a {
+    font-size: 30px;
+    text-decoration: none;
+}
+a:hover {
+    color: white;
+}
 
+.link-to-site {
+    padding: 2em 0 2em 0;    
+    margin-bottom: 2em;
+    max-width: 400px;
+    margin: 0 auto;
+}
 
 #gift-img-hug:hover {
     background-image: url("images/hug.gif");
